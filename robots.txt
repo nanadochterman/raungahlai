@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://doonguxea.erichorton.me/sitemap.xml
